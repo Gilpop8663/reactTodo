@@ -17,12 +17,13 @@ react의 Recoil 을 이용하여 atom 사용을 하는 법을 주로 연습했�
 
 ## 만들면서 어려웠던 점
 
+Recoil 사용법이 아직 익숙하지 않아 어려웠습니다. 더 많이 사용해보아야 할 것 같습니다.
 
 
 ## 스크린샷
 
-<img src="https://user-images.githubusercontent.com/80146176/143953310-a73e5f60-fcc4-4398-a44e-5a8eec043007.png" width="auto" />
+<img src="https://user-images.githubusercontent.com/80146176/144625268-c7eaf7e7-07d7-418f-ad38-74dc17c82b64.png" width="auto" />
 
 ## 배포 사이트
 
-https://gilpop8663.github.io/coinsite/
+https://gilpop8663.github.io/reactTodo/
