@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/reactTodo/static/js/main.7046923b.chunk.js",
-    "main.js.map": "/reactTodo/static/js/main.7046923b.chunk.js.map",
+    "main.js": "/reactTodo/static/js/main.42ce310d.chunk.js",
+    "main.js.map": "/reactTodo/static/js/main.42ce310d.chunk.js.map",
     "runtime-main.js": "/reactTodo/static/js/runtime-main.ecc9a36e.js",
     "runtime-main.js.map": "/reactTodo/static/js/runtime-main.ecc9a36e.js.map",
     "static/js/2.e0cc301d.chunk.js": "/reactTodo/static/js/2.e0cc301d.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.ecc9a36e.js",
     "static/js/2.e0cc301d.chunk.js",
-    "static/js/main.7046923b.chunk.js"
+    "static/js/main.42ce310d.chunk.js"
   ]
 }
